@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PerpusApplication<perpus>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.melpy.perpus.PerpusApplication",
+            "projectName": "perpus",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
